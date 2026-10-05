@@ -1,0 +1,6 @@
+{
+  "name": "UPH Performance & Capacity Calculator",
+  "description": "ระบบคำนวณ UPH Capacity, Takt Time, Cycle Time, Line Balance และ Dashboard สรุปผลการผลิตรายชั่วโมงแบบ Real-time พร้อมระบบแจ้งเตือนเมื่อหลุดเป้าหมาย",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
